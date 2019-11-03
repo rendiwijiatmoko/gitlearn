@@ -1,3 +1,3 @@
 # gitlearn
 ## Momo
-Momo adalah hewannya avatar angg
+Momo adalah hewan peliharaan nya avatar Angg.
